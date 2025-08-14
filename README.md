@@ -19,3 +19,13 @@ Image by <a href="https://pixabay.com/users/nopixelzone-6025194/?utm_source=link
 ## HERO IMAGE
 
 Photo by <a href="https://unsplash.com/@meric?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Meriç Dağlı</a> on <a href="https://unsplash.com/photos/sakura-tree-in-bloom-7NBO76G5JsE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+## MAIN SECTION
+
+FLOWER 1
+
+Photo by <a href="https://unsplash.com/@aarngiri?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">AARN GIRI</a> on <a href="https://unsplash.com/photos/white-daisy-in-bloom-during-daytime-3tYZjGSBwbk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+FLOWER 2
+
+Photo by <a href="https://unsplash.com/@minkmingle?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Mink Mingle</a> on <a href="https://unsplash.com/photos/white-petaled-flowers-during-day-96JD67agngE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
