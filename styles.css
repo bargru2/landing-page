@@ -12,7 +12,7 @@ body {
 .footer {
   display: flex;
   justify-content: space-between;
-  padding: 25px 50px;
+  padding: 25px 300px;
 }
 .header-logo-left {
   display: flex;
@@ -23,7 +23,7 @@ body {
 .hero {
   display: flex;
   justify-content: space-between;
-  padding: 25px 50px;
+  padding: 25px 300px;
 }
 .header,
 .hero {
@@ -87,6 +87,17 @@ ul {
 .kwiaty {
   display: flex;
   justify-content: center;
-  gap: 10px;
+  gap: 48px;
   padding: 30px;
+  align-items: flex-start;
+  text-align: center;
+}
+
+.kwiaty > div {
+  width: 200px; /* stała szerokość = szerokość obrazka */
+}
+.kwiaty img {
+  object-fit: cover; /* ujednolica kadr */
+  border-radius: 20%;
+  border: 5px solid blue;
 }
