@@ -66,9 +66,6 @@ button {
   border: none;
   padding: 8px 32px;
 }
-.CTA {
-  background-color: #3882f6;
-}
 
 h2 {
   font-size: 36px;
@@ -132,4 +129,20 @@ ul {
 
 .content {
   flex: 1;
+}
+
+.cta {
+  background-color: #3882f6;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  color: white;
+}
+h2 {
+  color: white;
+}
+.cta-right button {
+  color: white;
+  border-radius: 8px;
+  border: 2px solid white;
 }
