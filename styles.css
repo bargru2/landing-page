@@ -22,8 +22,10 @@ body {
 
 .hero {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-start;
   padding: 25px 300px;
+
+  align-items: flex-start;
 }
 .header,
 .hero {
@@ -34,10 +36,15 @@ body {
   flex-direction: column;
   align-content: flex-start;
 }
+
+.hero-right {
+  margin-left: auto;
+}
 h1 {
   font-size: 48px;
   color: #f9faf8;
   font-weight: 900;
+  margin: 0;
 }
 ul,
 .secondary {
@@ -100,4 +107,9 @@ ul {
   object-fit: cover; /* ujednolica kadr */
   border-radius: 20%;
   border: 5px solid blue;
+}
+.hero img {
+  width: 700px;
+  height: 300px;
+  object-fit: cover;
 }
