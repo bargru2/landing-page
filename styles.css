@@ -116,3 +116,16 @@ ul {
   height: 300px;
   object-fit: cover;
 }
+
+.quote {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  padding: 30px;
+}
+.author {
+  font-weight: bolder;
+  font-size: 25px;
+  font-style: normal;
+  text-align: right;
+}
