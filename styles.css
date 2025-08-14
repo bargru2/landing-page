@@ -17,6 +17,7 @@ body {
 .header-logo-left {
   display: flex;
   flex-direction: column;
+  align-items: center;
 }
 
 .hero {
@@ -32,7 +33,6 @@ body {
   display: flex;
   flex-direction: column;
   align-content: flex-start;
-  text-align: left;
 }
 h1 {
   font-size: 48px;
@@ -52,9 +52,9 @@ button {
   background-color: #3882f6;
   align-self: flex-start;
   color: white;
-  border-radius: 4px;
+  border-radius: 8px;
   border: none;
-  padding: 10px 20px;
+  padding: 8px 32px;
 }
 .CTA {
   background-color: #3882f6;
@@ -64,6 +64,7 @@ h2 {
   font-size: 36px;
   color: #1f2937;
   font-weight: 900;
+  text-align: center;
 }
 
 .quote {
@@ -81,4 +82,11 @@ ul {
   gap: 30px;
 
   list-style: none;
+}
+
+.kwiaty {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  padding: 30px;
 }
