@@ -95,7 +95,7 @@ ul {
   display: flex;
   justify-content: center;
   gap: 48px;
-  padding: 30px;
+  padding-bottom: 100px;
   align-items: flex-start;
   text-align: center;
 }
@@ -106,7 +106,7 @@ ul {
 .kwiaty img {
   object-fit: cover; /* ujednolica kadr */
   border-radius: 20%;
-  border: 5px solid blue;
+  border: 5px solid rgb(4, 4, 49);
 }
 .hero img {
   width: 700px;
